@@ -108,8 +108,6 @@ strong, b {
 
 img {
   max-width: 100%;
-  transform: rotate(-90deg);
-  image-orientation: from-image;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -167,8 +165,9 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: auto;
+  height: 150px;
+  
   margin-right: 15px;
 
   @include mobile {
