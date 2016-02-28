@@ -1,0 +1,24 @@
+---
+layout: post
+title: Week 6
+---
+
+<b>What did you do this past week?</b>
+
+I took my algorithms exam on Monday. In SWE, we learned about the different ways to pass arguments to functions such as defaults and unpacking. We also got to see a presentation from an employee at Mutual Mobile and learn about the technologies they use and about open source code.
+
+<b>What's in your way?</b>
+
+We have a SWE exam coming up on Thursday, so I'm studying for that. Since the algorithms exam is over with, I don't have too much in my way.
+
+<b>What will you do next week?</b>
+
+I will be putting most of my time into studying for the SWE exam and focus a good portion of my time into going over the readings that we will be tested over. I'll take time to work on my side projects too.
+
+<b>Thoughts</b>
+
+The content we learned in class is awesome as usual, especially function unpacking. This is a feature I haven't come across yet, so it's pretty awesome to me. Like a lot of exams, I am a little anxious for the upcoming SWE exam. I already took OOP last semester so I'm quite familiar with the class format, but since readings were added into this exam, I'm hoping that I can understand the content well enough to do well on those questions. I'll mention that the Mutual Mobile presentation was really good. It's a great reminder that for your own code, you don't always need to spend hours to find ways to do things yourself. There are a lot of smart engineers out there contributing to the coding community. It's also a great reminder to contribute to it yourself, it's good to give back to an awesome community of programmers and it encourages the growth of that community. In addittion to that, you learn a great deal and look awesome when job hunting.
+
+<b>Tip of the Week!</b>
+
+The presentation from Mutual Mobile talked a lot about open source software, so I'll recommend a library. If you want an easy way to load images into the ImageViews of your Android app,  Square's [Picasso](http://square.github.io/picasso/) image downloading and caching library can handle a lot of that for you and cut down the amount of code you need to write.
